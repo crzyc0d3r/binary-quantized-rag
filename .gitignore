@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+artifacts/
+data/
+*.db
+*.db.*
+.streamlit/secrets.toml
